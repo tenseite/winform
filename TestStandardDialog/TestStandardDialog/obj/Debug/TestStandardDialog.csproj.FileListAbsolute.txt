@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\bin\Debug\TestStandardDialog.exe.config
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\bin\Debug\TestStandardDialog.exe
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\bin\Debug\TestStandardDialog.pdb
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.Form1.resources
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.Properties.Resources.resources
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.exe
+C:\Users\Admin\Desktop\проекакго\TestStandardDialog\TestStandardDialog\obj\Debug\TestStandardDialog.pdb
