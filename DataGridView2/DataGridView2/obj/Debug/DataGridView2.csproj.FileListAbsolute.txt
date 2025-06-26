@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\bin\Debug\DataGridView2.exe.config
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\bin\Debug\DataGridView2.exe
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\bin\Debug\DataGridView2.pdb
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.Form1.resources
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.Properties.Resources.resources
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.exe
+C:\Users\Admin\Desktop\проекакго\DataGridView2\DataGridView2\obj\Debug\DataGridView2.pdb
